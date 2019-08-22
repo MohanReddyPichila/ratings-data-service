@@ -4,6 +4,7 @@ public class Employee {
 	
 	private int eid;
 	private String ename;
+	 private String Eaddress;
 	public Employee(int eid, String ename) {
 		super();
 		this.eid = eid;
